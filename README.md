@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-<!--
+I'm Sotiris, a full stack software developer from Greece :greece: &nbsp;
+
+I also love to learn new things, traveling, photo shooting landscapes and food.
+
+📫 How to reach me:
+[LinkedIn](https://www.linkedin.com/in/sotiris-alexakis/)&nbsp; [Twitter](https://twitter.com/SotosAlexakis)&nbsp; [WordPress](https://profiles.wordpress.org/sotosalex/)&nbsp; [Website](https://alexakis.dev)&nbsp; 
+
+<!--[Email](mailto:hello@vagelis.dev)
 **alexakis13/alexakis13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
